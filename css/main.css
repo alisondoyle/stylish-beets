@@ -25,7 +25,7 @@ a {
 
 a:hover {
   color: #3f1622;
-text-decoration: none;
+  text-decoration: none;
 }
 
 blockquote {
@@ -38,7 +38,7 @@ figcaption {
 }
 
 img {
-  width: 100%
+  width: 100%;
 }
 
 dt {
